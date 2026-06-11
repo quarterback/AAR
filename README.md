@@ -1,8 +1,8 @@
 # Agent After-Action Review
 
-A [Claude Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) for running a structured after-action review on an AI agent's work — and producing a record you can keep.
+A [Claude Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) for running a structured after-action review on an AI agent's work, and producing a record you can keep.
 
-An agent that finished its task is not the same as an agent that was supervised. This skill makes the difference legible: what the agent actually did versus what it was supposed to do, where human judgment entered, and what should change before the next run.
+The records help you analyze a run, track decisions across agent instances, and stay oriented when you're working with several agents at once.
 
 ## What it does
 
@@ -32,7 +32,3 @@ build on it for free with attribution; added terms apply to commercial or
 institutional use at scale. See `LICENSE`.
 
 Source: https://github.com/quarterback/parachute-commons-license
-
----
-
-Built by Ron Bronson.
