@@ -1,0 +1,240 @@
+# Parachute Commons License (PCL) 2.0
+
+**🪂 A license that deploys protection as the stakes get closer to the ground.**
+
+*Version 2.0 | 2026*
+*A fair-code license for shared work in a volatile information era.*
+
+---
+
+## 0. Plain-language summary (not the license)
+
+This summary is for orientation only and has no legal force. The operative
+terms are Sections 1–11.
+
+A parachute stays packed until it's needed. This license starts fully
+permissive — you can read, share, adapt, and build on the Work for free. As use
+gets closer to large-scale extraction, the protections deploy: significant
+commercial or institutional use requires acknowledgment and fair contribution
+back, and a narrow set of abusive uses are prohibited outright.
+
+This is a source-available, fair-code license.
+
+---
+
+## 1. Definitions
+
+**1.1 "Work"** means the material licensed under this License, including text,
+documentation, methodologies, frameworks, templates, designs, data, and source
+code, together with any portion of it.
+
+**1.2 "Licensor"** means the individual or entity that holds rights in the Work
+and offers it under this License. The Licensor is identified in the Work's
+`LICENSE` file or accompanying notice.
+
+**1.3 "You"** means any individual or entity exercising rights under this
+License.
+
+**1.4 "Derivative"** means any work that adapts, translates, remixes, extends,
+or is based upon the Work, in any medium.
+
+**1.5 "Distribute"** means to make the Work or a Derivative available to any
+third party, by any means, including hosting, transmission, or incorporation
+into a product or service.
+
+**1.6 "Commercial Use"** means use of the Work or a Derivative primarily
+intended for or directed toward commercial advantage or monetary compensation.
+Use is **not** Commercial Use solely because it occurs within a for-profit
+entity; internal evaluation, research, and individual professional use below
+the Threshold remain permissive under Section 2.
+
+**1.7 "Threshold Entity"** means a User that, together with its affiliates,
+meets or exceeds **any** of the following in the most recent twelve (12)
+months:
+  (a) **USD $1,000,000** in total gross revenue; **or**
+  (b) **USD $1,000,000** in total outside capital raised; **or**
+  (c) **50** or more full-time-equivalent personnel.
+
+A User below all three is a **"Permissive User"** and is governed only by
+Section 2, regardless of for-profit status.
+
+**1.8 "Automated Ingestion at Scale"** means incorporating the Work or a
+Derivative into a training corpus, model, index, or other automated system in a
+manner that reproduces, abstracts, or redistributes the Work's substance
+without preserving the attribution required by Section 3.
+
+**1.9 "Provenance"** means the identification of the Licensor as the originating
+human creator of the Work, and the relationship of any Derivative to the Work.
+
+---
+
+## 2. Phase One — Permissive Grant (the packed parachute)
+
+Subject to Section 4, the Licensor grants You a worldwide, royalty-free,
+non-exclusive license to:
+
+  (a) read, run, study, and share the Work;
+  (b) create and Distribute Derivatives; and
+  (c) use the Work and Derivatives for personal, educational, research,
+      internal-evaluation, and individual professional purposes.
+
+**You must, in all cases:**
+
+  (i) preserve Provenance — credit the Licensor as the original human
+      creator, and link to the source Work where reasonably possible;
+  (ii) state, in any Derivative, that it is derived from the Work and how;
+  (iii) preserve this License text and notice with any copy or Derivative.
+
+Phase One applies fully and indefinitely to every **Permissive User**. Nothing
+in later phases restricts a Permissive User acting within this Section.
+
+---
+
+## 3. Phase Two — Deployed Protections (commercial and institutional scale)
+
+When a use is **both** (x) Commercial Use **or** institutional deployment, and
+(y) carried out by a **Threshold Entity**, the following additional terms apply.
+They supplement, and do not remove, the obligations in Section 2.
+
+**3.1 Acknowledgment.** Threshold Entities must include a visible attribution in
+the relevant product, documentation, or interface:
+"Includes work protected under the Parachute Commons License — © [Licensor]."
+
+**3.2 Fair Contribution.** Threshold Entities making Commercial Use must, before
+or promptly upon crossing into Commercial Use, contact the Licensor and agree in
+good faith to **one** of:
+  (a) a reasonable commercial license fee; or
+  (b) another agreed contribution that sustains the Work (funding, materially
+      significant upstream contribution, or shared value to the originating
+      community).
+The default expectation, absent other agreement, is a reasonable,
+proportionate fee negotiated in good faith. The Licensor will not unreasonably
+withhold permission where fair contribution is offered.
+
+**3.3 Derivative Transparency.** A Threshold Entity Distributing a Derivative
+must clearly state the Derivative's relationship to the Work and must not
+present the Derivative in a way that conceals the Work's origin.
+
+**3.4 Automated Ingestion.** Automated Ingestion at Scale by a Threshold Entity
+requires the Licensor's prior written permission. Ingestion that preserves
+Provenance and does not redistribute the Work's substance does not by itself
+require permission.
+
+**3.5 Grace Period.** A User that crosses the Threshold while already using the
+Work has **ninety (90) days** to come into compliance with Section 3 from the
+date it becomes a Threshold Entity.
+
+---
+
+## 4. Phase Three — Prohibited Uses (egregious misuse)
+
+The following uses are prohibited for **all** Users regardless of scale, and no
+grant in Sections 2 or 3 extends to them:
+
+  (a) **Impersonation** — using the Work or a Derivative to falsely represent
+      the Licensor as the author of, or endorser of, material the Licensor did
+      not create or endorse;
+  (b) **Falsification of intent** — using the Work in a manner that materially
+      distorts or inverts its evident purpose in order to mislead;
+  (c) **Provenance laundering** — removing, obscuring, or falsifying Provenance
+      to appropriate the Work as one's own or another's;
+  (d) **Unlawful harm** — using the Work to facilitate activity that is
+      unlawful or that causes foreseeable serious harm to others.
+
+---
+
+## 5. Termination and Reinstatement
+
+**5.1** Rights under this License terminate automatically upon a material breach
+You do not cure within **thirty (30) days** of becoming aware of it, or
+immediately upon any violation of Section 4.
+
+**5.2** Rights reinstate automatically upon cure of a Section 2 or 3 breach,
+unless the Licensor has, before cure, notified You that the License is finally
+terminated for that breach. Section 4 violations do not auto-reinstate; they
+require the Licensor's written reinstatement.
+
+**5.3** Termination does not affect the rights of Permissive Users or downstream
+recipients who remain in compliance.
+
+---
+
+## 6. Patent and Moral Rights
+
+**6.1** Each Licensor who contributes code or technical method to the Work
+grants You a non-exclusive, royalty-free patent license to that contribution, to
+the extent necessary to exercise the rights granted herein. This patent grant
+terminates for any party that initiates patent litigation alleging the Work
+infringes a patent.
+
+**6.2** Where moral rights of attribution and integrity exist by law, the
+Licensor retains them; the Provenance obligations in this License are intended
+to honor, not waive, those rights.
+
+---
+
+## 7. Trademarks
+
+This License grants no rights in the Licensor's names, logos, or trademarks,
+except the limited use required to satisfy the attribution and acknowledgment
+obligations in Sections 2 and 3.
+
+---
+
+## 8. Enforcement and Culture
+
+This License is enforceable as a copyright license. It is **also** maintained,
+by design, through community norms: voluntary disclosure by responsible
+reusers, active care by Licensors, and a shared culture of honoring Provenance.
+The Licensor may pursue available legal remedies for breach, or may resolve
+breaches through community-led correction where that better serves the Work.
+Choosing the latter in one instance does not waive the former in another.
+
+---
+
+## 9. Disclaimer of Warranty
+
+THE WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT. THE LICENSOR DOES NOT WARRANT THAT THE WORK IS ERROR-FREE OR
+FIT FOR ANY PARTICULAR USE.
+
+## 10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR WILL NOT BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING FROM
+THE WORK OR ITS USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+## 11. Severability and Versioning
+
+**11.1** If any provision is held unenforceable, the remainder stays in effect,
+and the unenforceable provision applies to the maximum extent permitted.
+
+**11.2** The Licensor may publish revised versions of this License. The Work is
+governed by the version stated in its notice; absent a stated version, You may
+use the Work under any version the Licensor has published.
+
+**11.3** Where compliance with any term is impossible due to statute, judicial
+order, or regulation, You must comply to the maximum extent possible and
+describe the limitation in a notice distributed with the Work.
+
+---
+
+## How to apply this License
+
+1. Add a `LICENSE` file containing this full text to your project.
+
+2. Add this notice to the Work and to key files:
+
+   ```
+   This Work is licensed under the Parachute Commons License 2.0.
+   © [year] [Licensor]. Source: [link]
+   🪂 Shared for inquiry and contribution; protected from extractive use.
+   If a copy of the PCL was not distributed with this file, see
+   https://github.com/quarterback/parachute-commons-license.
+   ```
+
+3. Set your Threshold values in Section 1.7 if you wish to depart from the
+   defaults, and state any departure clearly in your notice.
+
+---
